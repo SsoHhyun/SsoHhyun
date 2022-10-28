@@ -1,7 +1,9 @@
-Kim So Hyun
+### Kim So Hyun
 
 - Birth: 1994. 11. 15.
-- graduated: Ewha University 
-- major: Korean Literature
+- Graduated: Ewha University 
+- Major: Korean Language & Literature
 - Language: JAVA, JavaScript, HTML, CSS
-- Course: SSAFY (2022. 1. ~)
+- Programming course: SSAFY (2022. 1. ~)
+- Career: civilian worker in R.O.K.A. (2020. 12. ~ 2021. 10.)
+- E-mail: janeqcitizen@naver.com
